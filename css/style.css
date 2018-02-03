@@ -73,7 +73,7 @@
 	hr
 	{
 		border: 0;
-		border-top: solid 1px #ddd;
+		border-top: solid 0.5px #ddd;
 	}
 	
 	blockquote
